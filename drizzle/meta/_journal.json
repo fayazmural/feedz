@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1723896148755,
+      "tag": "20240817120228_secret_kronos",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1723912953440,
+      "tag": "20240817164233_vengeful_mimic",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1723964362553,
+      "tag": "20240818065922_known_brother_voodoo",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1725111928228,
+      "tag": "20240831134528_bored_joshua_kane",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1725113196107,
+      "tag": "20240831140636_talented_marten_broadcloak",
+      "breakpoints": true
+    }
+  ]
+}
