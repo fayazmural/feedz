@@ -14,7 +14,8 @@ const Hero = () => {
               Collect your feedback seamlessly
             </h1>
             <p className="text-gray-500 texl-lg">
-              Easily integrate <span className="font-bold">Feedz</span> and start collecting feedback today.
+              Easily integrate <span className="font-bold">Feedz</span> and
+              start collecting feedback today.
             </p>
           </div>
           <div>
@@ -26,7 +27,7 @@ const Hero = () => {
                     Get Started
                   </Button>
                   <Button variant="secondary" asChild>
-                    <Link href="https://github.com">
+                    <Link href="https://github.com/fayazmural/feedz">
                       <Github className="w-4 h-4 mr-2" />
                       GitHub
                     </Link>
